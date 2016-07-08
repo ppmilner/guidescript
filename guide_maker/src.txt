@@ -1,0 +1,96 @@
+There are two language options that you can adjust on Wattpad:
+
+
+* Story language
+* Display language
+
+
+Your story language is the language that is used for your recommendations and searches.
+
+
+Your display language is the language used for the settings and controls of the app and/or website.
+
+
+Select a platform for more information.
+
+#$accordion#$
+#$accordionH#$On iOS
+
+
+To change your story language:
+
+
+1. Go to your profile
+2. Press the gear in the top left corner
+3. Select Account Settings
+4. Tap Language
+5. Scroll through the list and select a language
+
+
+To change your display language:
+
+
+1. Go to your phone settings
+2. Change the language of your device
+
+
+#$accordionH#$On Android
+
+
+To change your story language:
+
+
+1. Go to your profile
+2. Press the gear in the top right corner
+3. Select Language
+4. Scroll through the list and select a language
+
+
+To change your display language:
+
+
+1. Go to your phone settings
+2. Change the language of your device
+
+
+#$accordionH#$On Windows Phone
+
+
+To change your story language:
+
+
+1. Tap the three lines in the upper left corner
+2. Select Settings
+3. Select Account Settings
+4. Tap Language
+5. Scroll through the list and select your preferred story language
+
+
+To change your display language:
+
+
+1. Go to your phone settings
+2. Change the language of your device
+
+
+#$accordionH#$On Web
+
+
+To change your story language:
+
+
+1. Click on your username in the top right corner
+2. Select Language
+3. Click on the language beside Story Language and select a language from the menu
+4. Click Save
+
+
+To change your display language:
+
+
+1. Click on your username in the top right corner
+2. Select Language
+3. Click on the language beside Display Language and select a language from the menu
+4. Click Save
+#$accordion#$
+$end$$end$$end$$end$$end$
